@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+
+.image img{
+    width: 100%;
+    height: 200px;
+
+}
+
+img{
+    
+    object-fit: cover;
+
+}
